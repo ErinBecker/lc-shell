@@ -38,6 +38,10 @@ $ pwd
 ~~~
 {: .output}
 
+> ## Exercise Name
+> This is an exercise about creating a new directory.
+{: .challenge}
+
 The output will be a path to your home directory. Let's check if we recognise it
 by listing the contents of the directory. To do that, we use the `ls` command:
 
